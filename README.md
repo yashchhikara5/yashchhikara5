@@ -1,6 +1,6 @@
 ![MasterHead](https://i.postimg.cc/yYr400Bw/ezgif-com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Yash Chhikara</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. Feel free to reach out in case you want to just get in touch also.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchhikara5&label=Profile%20views&color=0e75b6&style=flat" alt="yashchhikara5" /> </p>
