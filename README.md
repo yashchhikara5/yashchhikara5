@@ -28,6 +28,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## Contributions
+![snake gif](https://github.com/jessej-samuel/jessej-samuel/blob/output/github-contribution-grid-snake.gif)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashchhikara5&show_icons=true&locale=en&layout=compact" alt="yashchhikara5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashchhikara5&show_icons=true&locale=en" alt="yashchhikara5" /></p>
